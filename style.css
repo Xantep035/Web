@@ -1,0 +1,26 @@
+.my-carousel {
+    width: 65%;
+    margin-top: 5%;
+}
+body {
+    background-color: rgb(55, 92, 160);
+}
+.header{
+    background-color: cornflowerblue;
+}
+p {
+    font-family: sans-serif;
+}
+.shade {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+.navbar-brand {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 1.5em;
+}
+.nav-link {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 1.1em;
+}
